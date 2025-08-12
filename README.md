@@ -1,7 +1,7 @@
 # Credit Card Fraud Risk Analysis | Dashboard
 
 
-![Credit_Card Logo](https://github.com/Adarsh0722/Netflix_Sql_project/blob/main/logo.png)
+![Credit_Card Logo](https://github.com/Adarsh0722/Credit_Card_Fraud_Risk_Analysis/blob/main/Logo.jpg)
 
 Fraud detection is a critical focus area for the banking and finance sectors. In this Power BI project, we dive into analyzing credit card transactions to uncover fraud patterns, assess risks, and build an interactive dashboard that supports real-time decision-making.
 
