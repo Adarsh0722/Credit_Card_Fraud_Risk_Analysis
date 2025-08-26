@@ -19,6 +19,13 @@ In this project, you’ll learn how to:
 
 ---
 
+## 📸 Screenshots
+
+![Credit Card Risk Analysis](https://github.com/Adarsh0722/Credit_Card_Fraud_Risk_Analysis/blob/main/Screenshot%202025-08-12%20142100.png)
+
+---
+
+
 ## 🛠 Getting Started
 
 To work on this project:
